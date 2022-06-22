@@ -1,0 +1,13 @@
+{
+    "name": "sg-coin-flip",
+    "version": "0.1.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
+  
