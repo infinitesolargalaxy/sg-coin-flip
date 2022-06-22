@@ -60,4 +60,6 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(8000);
+const PORT = 8000;
+
+server.listen(process.env.PORT || PORT);
