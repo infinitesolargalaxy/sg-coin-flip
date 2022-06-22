@@ -3,11 +3,10 @@
     "version": "0.1.0",
     "description": "",
     "main": "server.js",
-    "scripts": {
-    },
+    "scripts": {},
     "author": "",
     "license": "MIT",
     "dependencies": {
+        "figlet": "^1.5.2"
     }
-  }
-  
+}
